@@ -1,0 +1,14 @@
+{
+  "name": "realtime-balls",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Cihan Kılınç"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cihanbey211/Real-Time-Balls-Chat",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "semantic": "^2.4.1"
+  }
+}
